@@ -20,7 +20,6 @@ int main(int argc, char* argv[]) {
 	}
 	if (input==0)
 	{
-
 		printf("Input is invalid\n");
 		return 0;
 	}
