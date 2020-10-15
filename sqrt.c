@@ -20,7 +20,8 @@ int main(int argc, char* argv[]) {
 	}
 	if (input==0)
 	{
-		printf("invalid input\n");
+
+		printf("Input is invalid\n");
 		return 0;
 	}
 	printf("Sqrt of %d is %f\n",input,sqrt(input));
